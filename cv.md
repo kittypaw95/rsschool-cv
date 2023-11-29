@@ -1,26 +1,27 @@
-#Katsiaryna Turliuk
+# Katsiaryna Turliuk
 
-##Contacts
+## Contacts
 
-*__Location:__ Minsk, Belarus
-*__Phone:__ +375 29 832 45 39
-*__Email:__ porg1995@gmail.com
-*__GitHub:__ kittypaw95
+* __Location:__ Minsk, Belarus
+* __Phone:__ +375 29 832 45 39
+* __Email:__ porg1995@gmail.com
+* __GitHub:__ kittypaw95
 
-##About Me
+## About Me
 
 I decided to radically change my field of activity. And now I am improving in this direction.
-##Skills
 
-*HTML
-*CSS
-*JavaScript
-*PHP
-*SQL
+## Skills
 
-##Code Example
+* HTML
+* CSS
+* JavaScript
+* PHP
+* SQL
 
->Constructor of “Flight” objects, containing the following properties: driver’s last name; car number 1234 AB-7; destination; lifting capacity (in tons). When entering data from the keyboard, the data is checked for accuracy.
+## Code Example
+
+> Constructor of “Flight” objects, containing the following properties: driver’s last name; car number 1234 AB-7; destination; lifting capacity (in tons). When entering data from the keyboard, the data is checked for accuracy.
 
 ```javascipt
 	document.write("<table><tr><th>Фамилия водителя</th><th>Номер авто</th><th>Пункт назначения</th><th>Грузоподъемность(в тоннах)</th></tr>")
@@ -85,12 +86,12 @@ I decided to radically change my field of activity. And now I am improving in th
 	document.write("</table>");
 ```
 
-##Experience
+## Experience
 
-##Education
+## Education
 
-*__University:__ School of Business and Management of Technology of BSU, programmer - web designer
+* __University:__ School of Business and Management of Technology of BSU, programmer - web designer
 
-##English
+## English
 
-*__A2__
+* __A2__
